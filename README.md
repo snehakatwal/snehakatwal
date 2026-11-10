@@ -12,7 +12,7 @@
 
 ## Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch" />&nbsp;
   <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" title="OpenCV" />&nbsp;
